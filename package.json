@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "bullmq": "^4.16.0",
     "date-fns": "^3.0.5",
