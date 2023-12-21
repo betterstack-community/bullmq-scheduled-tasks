@@ -1,0 +1,17 @@
+{
+  "name": "bullmq-scheduled-tasks",
+  "version": "1.0.0",
+  "description": "Learn the basics of scheduling tasks in Node.js with BullMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bullmq": "^4.16.0",
+    "date-fns": "^3.0.5",
+    "dot-env": "^0.0.1"
+  }
+}
