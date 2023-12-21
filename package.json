@@ -12,7 +12,6 @@
   "type": "module",
   "dependencies": {
     "bullmq": "^4.16.0",
-    "date-fns": "^3.0.5",
-    "dot-env": "^0.0.1"
+    "date-fns": "^3.0.5"
   }
 }
